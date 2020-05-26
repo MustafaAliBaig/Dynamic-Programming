@@ -16,10 +16,9 @@ public class MaxValueArray {
 			if(A[i]>max)
 			{
 				max=A[i];
-				System.out.println("Maximum Value is "+max);
 			}
 		}
-		
+		System.out.println("Maximum Value is "+max);
 		
 
 	}
